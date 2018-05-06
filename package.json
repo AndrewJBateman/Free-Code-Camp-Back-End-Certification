@@ -1,0 +1,13 @@
+{
+  "name": "myapp",
+  "version": "1.0.1",
+  "description": "description",
+  "repository": "https://github.com/AndrewJBateman/testRepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ajbateman",
+  "license": "ISC",
+  "dependencies": {}
+}
