@@ -9,5 +9,10 @@
   },
   "author": "ajbateman",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "async": "^2.1.5",
+    "bl": "^1.2.0",
+    "moment": "^2.22.1",
+    "through2-map": "^3.0.0"
+  }
 }

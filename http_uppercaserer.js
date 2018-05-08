@@ -11,4 +11,4 @@ const server = http.createServer((req, res) => {
     })).pipe(res);
 });
 
-server.listen(port);
+server.listen(Number(port));
