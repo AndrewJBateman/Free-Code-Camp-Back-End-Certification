@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "1.0.1",
   "description": "description",
-  "repository": "https://github.com/AndrewJBateman/testRepo",
+  "repository": "https://github.com/AndrewJBateman/Free-Code-Camp-Back-End-Certification.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -10,8 +10,8 @@
   "author": "ajbateman",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.1.5",
-    "bl": "^1.2.0",
+    "async": "^2.6.0",
+    "bl": "^1.2.2",
     "moment": "^2.22.1",
     "through2-map": "^3.0.0"
   }

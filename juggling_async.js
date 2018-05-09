@@ -5,7 +5,7 @@ const bl = require('bl');
 
 const async = require('async');
 
-const urls = process.argv.slice[2];
+const urls = process.argv.slice(2);
 
 async.eachSeries(urls, (url, callback) => {
     http.get(url, response => {
