@@ -1,8 +1,12 @@
 # :zap: Node.js Exercises
 
 * Completed javascript exercises from freeCodeCamp to learn about http requests and related call-back functions
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**\* Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/Free-Code-Camp-Back-End-Certification?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/Free-Code-Camp-Back-End-Certification?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/Free-Code-Camp-Back-End-Certification?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/Free-Code-Camp-Back-End-Certification?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -60,4 +64,4 @@ utf8 is 1 to 4 8-bit bytes of binary data
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
